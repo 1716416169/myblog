@@ -1,5 +1,5 @@
 ---
-title: **about**
+title: About
 date: 2019-11-23 12:54:15
 ---
 ![头部图片](https://1716416169.github.io/background/about_title_pic.jpeg)
